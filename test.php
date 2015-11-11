@@ -5,7 +5,7 @@ include("functions/functions.php");
 
 if(!isset($_SESSION['user_email'])){
 	
-	header("location: index.php"); 
+	header("location: index.php
 }
 else {
 ?>
